@@ -9,7 +9,7 @@ export default {
       '@semantic-release/changelog',
       {
         changelogFile: 'CHANGELOG_X.md',
-        changelogTitle: 'Changelog X',
+        changelogTitle: '# Changelog X',
       },
     ],
     '@semantic-release/npm',
