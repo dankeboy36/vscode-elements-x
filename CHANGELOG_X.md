@@ -1,5 +1,12 @@
 Changelog X
 
+## [0.1.1](https://github.com/dankeboy36/vscode-elements-x/compare/0.1.0...0.1.1) (2025-10-30)
+
+
+### Bug Fixes
+
+* expose tree item decoration lane ([#4](https://github.com/dankeboy36/vscode-elements-x/issues/4)) ([2a494dc](https://github.com/dankeboy36/vscode-elements-x/commit/2a494dcc21b4419762ddb09e6799be4df58ea41b)), closes [vscode-elements/elements#548](https://github.com/vscode-elements/elements/issues/548)
+
 # [0.1.0](https://github.com/dankeboy36/vscode-elements-x/compare/0.0.1...0.1.0) (2025-10-30)
 
 
