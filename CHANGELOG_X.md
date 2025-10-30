@@ -1,4 +1,4 @@
-Changelog X
+# Changelog X
 
 ## [0.1.1](https://github.com/dankeboy36/vscode-elements-x/compare/0.1.0...0.1.1) (2025-10-30)
 
