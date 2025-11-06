@@ -1,5 +1,12 @@
 # Changelog X
 
+## [0.1.2](https://github.com/dankeboy36/vscode-elements-x/compare/0.1.1...0.1.2) (2025-11-06)
+
+
+### Bug Fixes
+
+* add missing minStart/minEnd to split-layout ([#6](https://github.com/dankeboy36/vscode-elements-x/issues/6)) ([b6094fb](https://github.com/dankeboy36/vscode-elements-x/commit/b6094fb83173da50d6442719c8d9e84c8f2229df)), closes [vscode-elements/elements#553](https://github.com/vscode-elements/elements/issues/553)
+
 ## [0.1.1](https://github.com/dankeboy36/vscode-elements-x/compare/0.1.0...0.1.1) (2025-10-30)
 
 
