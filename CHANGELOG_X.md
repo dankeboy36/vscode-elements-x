@@ -1,5 +1,12 @@
 # Changelog X
 
+## [0.1.3](https://github.com/dankeboy36/vscode-elements-x/compare/0.1.2...0.1.3) (2025-11-08)
+
+
+### Bug Fixes
+
+* align button height with Monaco metrics ([#7](https://github.com/dankeboy36/vscode-elements-x/issues/7)) ([6482f36](https://github.com/dankeboy36/vscode-elements-x/commit/6482f36907e296dda4dc295cf7de1d2e16a307df)), closes [vscode-elements/elements#555](https://github.com/vscode-elements/elements/issues/555)
+
 ## [0.1.2](https://github.com/dankeboy36/vscode-elements-x/compare/0.1.1...0.1.2) (2025-11-06)
 
 
